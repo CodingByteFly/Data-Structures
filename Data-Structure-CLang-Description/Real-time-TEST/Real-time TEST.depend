@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533137272 source:d:\章大大\documents\数据结构\最大子列和\real-time test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
