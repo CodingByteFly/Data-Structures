@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552465556 source:d:\lovel\documents\data-structures\data-structure-clang-description\最大子列和\main.c
+	<stdio.h>
+	<stdint.h>
+

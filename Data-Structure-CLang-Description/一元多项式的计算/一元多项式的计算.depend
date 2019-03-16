@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552317045 source:d:\lovel\documents\data-structures\data-structure-clang-description\一元多项式的计算\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
